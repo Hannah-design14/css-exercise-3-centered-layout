@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: teal;
+}
+
+.main {
+    background-color: royalblue;
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+}
